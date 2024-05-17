@@ -4,9 +4,16 @@ Description
 An AI chatbot that learns from user interactions using Python and JavaScript.
 
 
-To Clone the repository:
+
+To use the repository:
    ```bash
    git clone https://github.com/fusroodah/fusroodah.git
+
+   cd fusroodah
+
+   python main.py
+
+   ```
 
 
 Features:
