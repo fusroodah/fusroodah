@@ -1,9 +1,11 @@
 AI Chatbot Project
 
-Description
+<br>
+
+Description:<br>
 An AI chatbot that learns from user interactions using Python and JavaScript.
 
-
+<br>
 
 To use the repository:
    ```bash
@@ -14,12 +16,14 @@ To use the repository:
    python main.py
 
    ```
-
+<br>
 
 Features:
 
-  Learns from user interactions.
+<br>
 
-  Stores information in a JavaScript array file.
+Learns from user interactions.
 
-  Responds with learned information.
+Stores information in a JavaScript array file.
+
+Responds with learned information.
